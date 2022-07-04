@@ -124,7 +124,7 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowToc: true
   comments: true
-  # disqusShortname: ganeshdip-dev
+  # isqusShortname: ganeshdip-dev
   images: ["papermod-cover.png"]
 
   profileMode:

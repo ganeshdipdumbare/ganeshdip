@@ -109,8 +109,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "Ganeshdip - https://github.com/ganeshdipdumbare/ganeshdip"
+  author: Ganeshdip
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -130,8 +130,8 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
-    imageUrl: "#"
+    title: "Hello, world!"
+    imageUrl: "https://raw.githubusercontent.com/ganeshdipdumbare/ganeshdipdumbare/master/gif/go.gif"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
@@ -142,21 +142,29 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod"
-    Content: >
-      Welcome to demo of hugo's theme PaperMod.
+    Title: "Hello, world!"
+    Content: > 
+      <img src="https://raw.githubusercontent.com/ganeshdipdumbare/ganeshdipdumbare/master/gif/go.gif" width="100" height="100"/>
 
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      I am a software engineer talking in Golang with computers. 
+      
+      
+      Let's make the software engineering fun and simple as one of my favorite quote says:
 
-      - Do give a 🌟 on Github !
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      **Simple things** should be **simple**, **complex things** should be **possible**.
+
+      > — <cite>Alan Kay</cite>
 
   socialIcons:
     - name: github
       url: "https://github.com/ganeshdipdumbare"
     - name: KoFi
       url: "https://ko-fi.com/ganeshdip"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/ganeshdip-dumbare/"
+    - name: Email
+      url: "https://mail.google.com/mail/?view=cm&fs=1&to=ganeshdip.dumbare@gmail.com&su=Hello there!"
     - name: Twitter
       url: "https://twitter.com/IAmGaneshdip"
 

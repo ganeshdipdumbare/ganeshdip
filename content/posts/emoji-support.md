@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Ganeshdip"
 title: "Emoji Support"
 date: "2022-03-05"
 description: "Guide to emoji usage in Hugo"

@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-What is mean by clean code? Let's find out.
+What is mean by clean code? Let's find out. Inspired by the book `Clean Code` by `Robert C. Martin (Uncle Bob)`. 
 
 <!--more-->
 

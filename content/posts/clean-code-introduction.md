@@ -45,6 +45,6 @@ func makeCupOfTea(kettle, water, teaBag) cupOfTea {
 
 
 # Leave it better
-As the boy scout rule states - "Keep the campground cleaner than you found it", make the code clean with each PR. 
+As the boy scout rule states - "Keep the campground cleaner than you found it". Make the code clean with each pull request. 
 
 And the code will age like a fine wine :blush:

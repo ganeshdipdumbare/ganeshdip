@@ -32,7 +32,7 @@ It becomes a building with broken windows that nobody cares about.
 # Clean code
 Clean code is simple to read and change. It does what the reader is expecting. In short, it is focused and minimal. It is written by someone who cares about it. 
 
-Following is an example of real world problem - 
+Following is an example of real world problem solved using clean code - 
 ```go
 func makeCupOfTea(kettle, water, teaBag) cupOfTea {
     hotWater := boilWater(kettle, water)

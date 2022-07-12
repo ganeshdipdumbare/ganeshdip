@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-130173930-1
 
 minify:
   disableXML: true
@@ -37,7 +37,6 @@ languages:
         - name: Archive
           url: archives
           weight: 20
-
 
   # fr:
   #     languageName: ":fr:"
@@ -142,13 +141,13 @@ params:
 
   homeInfoParams:
     Title: "Hello, world!"
-    Content: > 
+    Content: >
       <img src="https://raw.githubusercontent.com/ganeshdipdumbare/ganeshdipdumbare/master/gif/go.gif" width="100" height="100"/>
 
 
       I am a software engineer talking in **Golang** with computers. 
-      
-      
+
+
       Let's make the software engineering fun and simple as one of my favorite quote says:
 
 
@@ -183,11 +182,11 @@ params:
   #         SiteVerificationTag: "XYZabc"
 
   assets:
-      favicon: "/favicon.ico"
-      favicon16x16: "/favicon-16x16.png"
-      favicon32x32: "/favicon-32x32.png"
-      apple_touch_icon: "/apple-touch-icon.png"
-      safari_pinned_tab: "/safari-pinned-tab.svg"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data

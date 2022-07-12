@@ -21,7 +21,6 @@ languages:
     languageName: "English"
     weight: 1
     taxonomies:
-      category: categories
       tag: tags
       series: series
     menu:
@@ -29,8 +28,8 @@ languages:
         - name: Search
           url: search/
           weight: 5
-        - name: Categories
-          url: categories/
+        - name: Series
+          url: series/
           weight: 10
         - name: Tags
           url: tags/
@@ -126,7 +125,7 @@ params:
   ShowToc: true
   comments: true
   # isqusShortname: ganeshdip-dev
-  images: ["papermod-cover.png"]
+  images: ["ganeshdip-cover.png"]
 
   profileMode:
     enabled: false

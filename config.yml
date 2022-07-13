@@ -35,69 +35,8 @@ languages:
           url: tags/
           weight: 15
         - name: Archive
-          url: archives
+          url: archives/
           weight: 20
-
-  # fr:
-  #     languageName: ":fr:"
-  #     languageAltTitle: French
-  #     weight: 2
-  #     title: PaperModL2
-  #     taxonomies:
-  #       category: FRcategories
-  #       tag: FRtags
-  #       series: FRseries
-  #     profileMode:
-  #         enabled: true
-  #         title: PaperMod
-  #         # imageUrl: "#"
-  #         # imageTitle: my image
-  #         # imageWidth: 120
-  #         # imageHeight: 120
-  #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-  #         buttons:
-  #             - name: Blog
-  #               url: posts
-  #             - name: Tags
-  #               url: tags
-
-  # menu:
-  #     main:
-  #         - name: Archive
-  #           url: archives/
-  #           weight: 5
-  #         - name: FRTags
-  #           url: frtags
-  #           weight: 10
-  #         - name: FRCategories
-  #           url: frcategories
-  #           weight: 10
-  #         - name: FRSeries
-  #           url: frseries
-  #           weight: 10
-  #         - name: NullLink
-  #           url: "#"
-  #         - name: NullLink2
-  #           url: "#"
-  #         - name: NullLink3
-  #           url: "#"
-
-  # fa:
-  #     languagedirection: rtl
-  #     weight: 3
-  #     title: PaperMod RTL
-  #     homeInfoParams:
-  #         Title: "Hi there \U0001F44B"
-  #         Content: Welcome to RTL layout
-  #     taxonomies:
-  #       category: FAcategories
-  #       tag: FAtags
-  #       series: FAseries
-  #     menu:
-  #         main:
-  #             - name: FATags
-  #               url: fatags
-  #               weight: 10
 
 outputs:
   home:

@@ -46,7 +46,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Ganeshdip - https://github.com/ganeshdipdumbare/ganeshdip"
+  description: "I am a software engineer talking in Golang with computers. Let's make the software engineering fun and simple"
   author: Ganeshdip
   # author: ["Me", "You"] # multiple authors
 

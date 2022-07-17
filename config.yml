@@ -37,9 +37,6 @@ languages:
         - name: Archive
           url: archives/
           weight: 20
-        - name: Subscribe
-          url: subscribe/
-          weight: 25
 
 outputs:
   home:

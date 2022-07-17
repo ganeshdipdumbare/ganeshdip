@@ -37,6 +37,9 @@ languages:
         - name: Archive
           url: archives/
           weight: 20
+        - name: Subscribe
+          url: subscribe/
+          weight: 20
 
 outputs:
   home:
@@ -64,6 +67,7 @@ params:
   comments: true
   # isqusShortname: ganeshdip-dev
   images: ["ganeshdip-cover.png"]
+  NewsletterSignup: "https://tinyletter.com/ganeshdip"
 
   profileMode:
     enabled: false

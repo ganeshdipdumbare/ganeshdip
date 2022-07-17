@@ -8,6 +8,7 @@ TocOpen: false
 ShowShareButtons: false
 ShowReadingTime: false
 hidemeta: true
+ShowBreadCrumbs: false
 ---
 
 {{<tinyletter>}}

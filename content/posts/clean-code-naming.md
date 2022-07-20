@@ -1,5 +1,5 @@
 ---
-title: "Clean Code Naming"
+title: "Clean Code - Naming"
 date: 2022-07-20T18:26:22+02:00
 draft: false
 author: "Ganeshdip"
